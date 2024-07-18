@@ -29,6 +29,16 @@ Key insights--
 
 Tool Tip feature used so that all the KPMs for a particular day can be looked into.
 
+
+
+### Data used
+
+![Screenshot 2024-07-18 120400](https://github.com/user-attachments/assets/7630af7f-cc70-465f-bbf0-248af6a5ea39)
+
+
+
+
+
 ### Documentation of SQL Queries used for conformation of calculations
 
 ** Lag(),count(),sum(),over(),order by,round(),concat(),avg()
